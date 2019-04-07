@@ -8,8 +8,6 @@
 
 #### Initial setup
 
-> $ git@gitlab.com:CodingTownIndia/vehicle-tracking-service.git
-
 > $ npm install
 
 #### Development server
@@ -29,3 +27,6 @@
 #### Install packages
 
 >linter-eslint, linter, linter-ui-default, intentions, busy-signal
+
+#### google_services.json
+> Download the google services json file and replace it
